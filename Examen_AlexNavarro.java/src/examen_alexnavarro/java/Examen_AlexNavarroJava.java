@@ -17,6 +17,7 @@ public class Examen_AlexNavarroJava {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Me llamo AlexNavarro y estoy haciendo el examen de la UD4");
+        System.out.println("Voy a aprobar el examen");
     }
     
 }
